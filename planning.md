@@ -199,5 +199,25 @@ the evaluation report.
 
 ## 8. Hard Annotation Decisions (updated during Milestone 3)
 
-_(This section will be filled in during data collection with at least 3
-specific examples that were genuinely difficult to label and the decisions made.)_
+**Hard Case 1 — strategy vs discussion:**
+
+> "I like to build a Nashor's Tooth on Azir for the attack speed and ability power."
+> Starts with "I like to" which sounds like a personal opinion (discussion), but the
+> content is a specific build recommendation with a real champion and item that can
+> be applied directly. Decision: `strategy` — actionable content overrides opinion framing.
+
+**Hard Case 2 — rant vs discussion:**
+
+> "Why is Yasuo still allowed in the game? HE'S BROKEN AND RUINS EVERY MATCH"
+> Has a question mark which looks like discussion, but ALL CAPS and emotional language
+> signal pure frustration. The question is rhetorical, not genuinely inviting exchange.
+> Decision: `rant` — rhetorical questions expressing anger are not real discussion openers.
+
+**Hard Case 3 — rant vs discussion:**
+
+> "What's the point of even playing ranked when you get matched with bronze players
+> who have no idea what they're doing?"
+> "What's the point" looks like an open question (discussion), but the framing is
+> entirely negative and complaining about matchmaking. No genuine interest in hearing
+> other perspectives. Decision: `rant` — rhetorical questions with frustrated framing
+> are labeled rant, not discussion.
