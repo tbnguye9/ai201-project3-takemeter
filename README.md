@@ -289,11 +289,11 @@ The fine-tuned model made **1 error out of 32 test examples**.
 
 | Text (truncated)                                                  | True Label | Predicted  | Confidence |
 | ----------------------------------------------------------------- | ---------- | ---------- | ---------- |
-| "When playing against Thresh, try to stay behind your minions..." | strategy   | strategy   | 0.98       |
-| "I'm so done with this game. Every single game someone ints..."   | rant       | rant       | 0.97       |
-| "What do you think is the most underrated champion right now?"    | discussion | discussion | 0.95       |
+| "When playing against Thresh, try to stay behind your minions..." | strategy   | strategy   | 0.40       |
+| "I'm so done with this game. Every single game someone ints..."   | rant       | rant       | 0.39       |
+| "What do you think is the most underrated champion right now?"    | discussion | discussion | 0.40       |
 | "What's the point of even playing ranked when you get matched..." | rant       | discussion | 0.36       |
-| "I like to build a Nashor's Tooth on Azir for attack speed..."    | strategy   | strategy   | 0.91       |
+| "I like to build a Nashor's Tooth on Azir for attack speed..."    | strategy   | strategy   | 0.39       |
 
 **Correct prediction explained:** The post "When playing against Thresh, try
 to stay behind your minions to avoid his hook" was correctly classified as
