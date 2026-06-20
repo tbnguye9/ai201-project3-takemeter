@@ -382,5 +382,4 @@ before use. This workflow is disclosed here per course requirements.
 | `baseline_results.json`   | Groq zero-shot baseline results                                     |
 | `evaluation_results.json` | Fine-tuned vs baseline comparison                                   |
 | `confusion_matrix.png`    | Confusion matrix for fine-tuned model                               |
-| `run_baseline.py`         | Script used to run baseline locally                                 |
-| `generate_dataset.py`     | Script used to generate dataset via Groq API                        |
+| `README.md`               | Project documentation and evaluation report                         |
