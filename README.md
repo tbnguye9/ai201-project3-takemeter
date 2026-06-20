@@ -378,7 +378,7 @@ before use. This workflow is disclosed here per course requirements.
 | File                      | Description                                                         |
 | ------------------------- | ------------------------------------------------------------------- |
 | `planning.md`             | Design document with label definitions, data plan, and AI tool plan |
-| `dataset_clean.csv`       | 210 labeled examples (70 per label)                                 |
+| `dataset.csv`             | 210 labeled examples (70 per label)                                 |
 | `baseline_results.json`   | Groq zero-shot baseline results                                     |
 | `evaluation_results.json` | Fine-tuned vs baseline comparison                                   |
 | `confusion_matrix.png`    | Confusion matrix for fine-tuned model                               |
