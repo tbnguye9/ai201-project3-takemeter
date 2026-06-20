@@ -1,0 +1,1075 @@
+{
+  "overall_accuracy": 1.0,
+  "total_examples": 210,
+  "parsed": 210,
+  "unparseable": 0,
+  "per_class": {
+    "strategy": {
+      "correct": 70,
+      "total": 70,
+      "recall": 1.0
+    },
+    "rant": {
+      "correct": 70,
+      "total": 70,
+      "recall": 1.0
+    },
+    "discussion": {
+      "correct": 70,
+      "total": 70,
+      "recall": 1.0
+    }
+  },
+  "predictions": [
+    {
+      "text": "I've found that playing Jinx with a Trinity Force and Essence Reaver gives me th",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "When playing against Thresh, try to stay behind your minions to avoid his hook.",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I've been experimenting with a tanky Lee Sin build that includes a Dead Man's Pl",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "To improve your mechanics on Yasuo, practice last-hitting minions with your swor",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Ahri's charm is super powerful, use it to lock down enemies during team fights.",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Garen's spin is a great tool for chasing down enemies, but be careful not to ove",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "When playing top lane, try to take the enemy's tower as soon as possible to deny",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I like to build a Nashor's Tooth on Azir for the attack speed and ability power.",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "To avoid getting caught out by assassins, stay near your support and keep an eye",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Playing Nami with a Morellonomicon and a Redemption gives me a lot of utility an",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "In team fights, try to position yourself so that you're attacking the enemy from",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I've found that taking Smite on Sejuani gives me an extra layer of security when",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "When playing against a marksman, try to stay behind your minions and use your ab",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Building a Frozen Heart on Janna gives me a lot of utility and crowd control for",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "To improve your map awareness, make it a habit to glance at the minimap every fe",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I like to play Ekko with a Hextech Gunblade and a Essence Reaver, it gives me a ",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "When playing as a jungler, try to gank lanes as soon as possible to get your tea",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Playing LeBlanc with a Luden's Echo and a Void Staff gives me a lot of ability p",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "To avoid getting kited by enemies, try to stay mobile and use your abilities to ",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I've found that building a Thornmail on Galio gives me a lot of tankiness and cr",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "When playing against a team with a lot of crowd control, try to stay spread out ",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Playing Anivia with a Rabadon's Deathcap and a Seraph's Embrace gives me a lot o",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "To improve your warding, try to ward in key areas such as river and objectives.",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I like to play Swain with a Liandry's Torment and a Demonic Embrace, it gives me",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "When playing as a support, try to stay near your carry and keep them safe during",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Building a Banshee's Veil on Karma gives me a lot of utility and protection for ",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "To avoid getting caught out by the enemy jungler, try to keep an eye on the mini",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I've found that playing Fizz with a Sorcery and a Domination rune page gives me ",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "When playing against a team with a lot of assassins, try to stay grouped up and ",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Playing Vladimir with a Hextech Revolver and a Will of the Ancients gives me a l",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "To improve your objective takes, try to coordinate with your team and use your a",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I like to build a Guardian Angel on Riven, it gives me a lot of tankiness and pr",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "When playing as a mid laner, try to roam as soon as possible to get your other l",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Playing Sylas with a Corrupting Potion and a Sorcery rune page gives me a lot of",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I've found that playing Jinx with a Trinity Force and Essence Reaver build allow",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "When playing against a Thresh, try to stay behind your minions to avoid getting ",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Lee Sin's Sonic Wave is a great tool for securing early game kills, just make su",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I like to build Yasuo with a mix of attack damage and ability haste to maximize ",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Ahri's charm can be a game changer in team fights, use it to lock down their car",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Garen's Decisive Strike can be used to initiate or disengage from a fight, depen",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "When playing top lane, try to freeze the wave near your tower to deny gold and e",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Building a Randuin's Omen on a tank champion can greatly reduce the enemy team's",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I've found that taking Smite on a jungler allows for more aggressive plays in th",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Katarina's Shunpo can be used to quickly reposition or escape from a bad situati",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Try to keep an eye on the enemy's summoner spells when in a team fight, it can g",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Playing a support champion like Nami or Leona can greatly enhance your team's ov",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I like to build a frozen heart on a champion with a lot of attack damage to redu",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "When playing mid lane, try to roam as much as possible to apply pressure to othe",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Using your abilities to zone the enemy champion in lane can be an effective way ",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I've found that building a luden's echo on a ability power carry champion allows",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Try to keep an eye on the minimap to track the enemy team's movements and positi",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Playing a bruiser champion like Riven or Darius can be an effective way to deal ",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "When playing against a champion with a lot of crowd control, try to build some t",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I like to use my champion's abilities to bait out the enemy team's summoner spel",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Try to stay near your allies when in a team fight, it can make it harder for the",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Building a Mejai's Soulstealer on a ability power carry champion can allow for i",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I've found that playing a champion with a lot of sustain, like Vladimir or Swain",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "When playing a champion with a lot of burst damage, try to engage in short skirm",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Try to keep an eye on the enemy team's items and build accordingly to counter th",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I like to build a Guardian Angel on a champion that likes to get into the thick ",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Playing a champion with a lot of area of effect damage, like Anivia or Azir, can",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "When playing against a champion with a lot of armor, try to build some armor pen",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I've found that using my champion's abilities to control key objectives, like Dr",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Try to stay mobile when in a team fight, it can make it harder for the enemy tea",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Building a Youmuu's Ghostblade on a attack damage carry champion can allow for i",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I like to play a champion with a lot of utility, like Bard or Janna, to help my ",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "When playing a champion with a lot of ability power, try to build some ability h",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "Try to keep an eye on the enemy team's vision control, it can give you an idea o",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I've found that playing a champion with a lot of burst damage, like Lux or Syndr",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I've found that playing Jinx in the top lane is super viable if you build her wi",
+      "true_label": "strategy",
+      "pred_label": "strategy"
+    },
+    {
+      "text": "I'M SO DONE WITH THIS GAME, JUST LOST 5 GAMES IN A ROW DUE TO FEEDING TEAMMATES",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "why is ekko still allowed to be played in ranked, his kit is so broken",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "just got matched with a mid lane leblanc who fed 10 kills in 10 minutes, UNBELIE",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "RIOT GAMES IS INCOMPETENT, THEY CAN'T EVEN BALANCE CHAMPIONS PROPERLY",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "this is ridiculous, just got report bombed by a toxic player and riot did nothin",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I SWEAR, EVERY TIME I PLAY RIVEN I GET MATCHED WITH A TEAM THAT CAN'T EVEN PLAY ",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "what's the point of even playing ranked when you get matched with people who don",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "just had to play against a yasuou who was smurfing, COMPLETELY RUINED THE GAME",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I'M FED UP WITH THESE NEW CHAMPION RELEASES, THEY'RE ALWAYS SO OVERPOWERED",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "why do i always get teamed up with people who don't speak english, IT'S SO HARD ",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "RIOT NEEDS TO FIX THEIR MATCHMAKING SYSTEM, IT'S SO BROKEN",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "just got destroyed by a tryndamere who was clearly hacking, AND RIOT WON'T DO AN",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I HATE PLAYING AGAINST THRESH, HIS HOOK IS SO OP AND RUINS THE GAME",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "just had to play with a team that didn't even have a jungler, WHAT IS WRONG WITH",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "this game is so toxic, just got flamed by a teammate for making one mistake",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I'M SO SICK OF PLAYING AGAINST TEAMS WITH 3-4 FEEDERS, IT'S NOT EVEN FUN ANYMORE",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "why does riot always nerf the champions i play, IT'S LIKE THEY'RE TRYING TO RUIN",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "just got matched with a team that was all brazilian and they just started trolli",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I DON'T EVEN KNOW WHY I BOTHER PLAYING RANKED, IT'S JUST SO FRUSTRATING",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "riot games is so incompetent, they can't even keep their servers stable",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "this is ridiculous, just got a 14-day ban for saying one bad word in chat",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I SWEAR, EVERY TIME I PLAY LEAGUE IT'S LIKE I'M THE ONLY ONE WHO KNOWS HOW TO PL",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "why does riot always release new champions that are so overpowered, IT'S JUST NO",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "just had to play against a lux who was afk the entire game, AND WE STILL LOST",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I'M FED UP WITH THESE TOXIC PLAYERS WHO THINK THEY CAN JUST FLAME PEOPLE AND GET",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "riot needs to fix their report system, it's so useless",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "just got matched with a team that didn't even have a support, WHAT A JOKE",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I DON'T EVEN KNOW WHY I PLAY THIS GAME ANYMORE, IT'S JUST SO STRESSFUL",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "why does riot always prioritize pro play over regular players, IT'S JUST NOT FAI",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "this game is so broken, just had to play against a team that was all smurfs",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I SWEAR, EVERY TIME I PLAY I GET MATCHED WITH SOMEONE WHO IS JUST INTING ON PURP",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "riot games is so out of touch with their player base, THEY JUST DON'T CARE ABOUT",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "just got destroyed by a zed who was clearly smurfing, AND RIOT WON'T DO ANYTHING",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I'M SO DONE WITH THIS GAME, JUST CAN'T TAKE THE TOXICITY AND BAD TEAMMATES ANYMO",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I'M SO DONE WITH THIS GAME!!! Just had a teammate feed 20 kills to the enemy mid",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Why is Yasuo still allowed in the game? HE'S BROKEN AND RUINS EVERY MATCH",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I swear, Riot has no idea what they're doing. This last patch was a COMPLETE DIS",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Just got matched with a team of AFKs and we lost because of it. THIS IS RIDICULO",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I'm so sick of toxic players. Just got reported for 'inting' when I was 10/0 and",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "What's the point of even playing ranked when you get matched with bronze players",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I've had it with these smurf accounts. JUST BANNED SOME GUY WHO WAS 0/10 AND STI",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Why do I always get matched with teams that can't communicate? IT'S LIKE WE'RE S",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Riot needs to get their act together and balance out the champions. IT'S BEEN MO",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I'M FED UP WITH THESE LAG SPIKES. Can't even play a game without it freezing eve",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Just got destroyed by a Tryndamere who was 0/5 and still managed to get a penta.",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I don't even know why I bother playing this game. IT'S JUST ONE FRUSTRATION AFTE",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Why do I always get the teammates who think they're GODS and refuse to listen to",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I SWEAR, RIOT IS JUST TROLLING US AT THIS POINT. Every patch is just a joke",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Just had a game where our team was up by 10k gold and we still managed to lose. ",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I'm so done with these 'pro' players who stream and make it look easy. IT'S NOT ",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Why is it that every time I play, I get matched with a team that's just going to",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I DON'T EVEN KNOW WHY I PLAY THIS GAME ANYMORE. IT'S JUST STRESS AND FRUSTRATION",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Just got reported for 'inting' when I was 2/0 and the rest of my team was 0/10. ",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Riot needs to sort out their ranking system. I'M STILL STUCK IN BRONZE AFTER MON",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I'M SO SICK OF THESE FEEDERS. Can't even play a game without someone feeding 20 ",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "What's the point of even having a ranked system when it's just going to be fille",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I SWEAR, EVERY GAME I PLAY IS JUST A REPEAT OF THE SAME THING. FEEDERS, TROLLS, ",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Why do I always get the teams that can't work together? IT'S LIKE WE'RE ALL PLAY",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Riot needs to sort out their champion balance. IT'S BEEN MONTHS AND WE STILL HAV",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I'M FED UP WITH THESE TOXIC PLAYERS. Can't even play a game without someone flam",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Just had a game where our team was winning and then we just threw it away. WHAT ",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I DON'T EVEN KNOW WHY I BOTHER PLAYING RANKED. IT'S JUST STRESS AND FRUSTRATION",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Why do I always get the teammates who think they're better than everyone else an",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I SWEAR, RIOT IS JUST MAKING THIS GAME WORSE WITH EVERY PATCH. IT'S LIKE THEY'RE",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Just had a game where we were up by 10k gold and we still managed to lose. HOW I",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I'M SO DONE WITH THIS GAME. IT'S JUST ONE FRUSTRATION AFTER ANOTHER",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Why do I always get matched with teams that can't even communicate? IT'S LIKE WE",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "Riot needs to sort out their matchmaking system. I'M STILL GETTING MATCHED WITH ",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I'M SO DONE WITH THIS GAME!!! I just had the WORST game of my life, 0/10/0 ashe ",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "RIOT IS COMPLETELY INCOMPETENT!!! They just buffed yuumi AGAIN and now she's UNT",
+      "true_label": "rant",
+      "pred_label": "rant"
+    },
+    {
+      "text": "I've been playing a lot of Yorick lately and I'm curious, what do you think make",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you think the recent balance changes have shifted the game too much towards a",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've always wondered, what's the lore behind the Void and its champions? Do you ",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Am I the only one who thinks that the old Twisted Fate champion design was more ",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've been playing League since season 3, and I've noticed that the game's compet",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What do you think makes a champion a 'must-pick' in the current meta? Is it thei",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've been trying to get into the lore of the game, but I find it hard to keep tr",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you think that the current state of the top lane is healthy for the game? Wha",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've always thought that the Freljord region has a lot of potential for interest",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What's your take on the whole 'marksmen vs fighters' debate in the top lane? Do ",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've been playing League for a while now, but I've never really gotten into the ",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you think that the game's item system is too complex, or is it just right? Wh",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've always thought that the game could benefit from more 'support' champions th",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What do you think is the most underrated champion in the game right now? Who do ",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've been noticing that a lot of newer champions have been getting released with",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you think that the game's ranking system is fair, or are there too many varia",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've always wondered, what's the story behind the creation of the Institute of W",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What do you think makes a good 'rookie' champion for new players to start with? ",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've been playing a lot of flex queue lately, and I've noticed that it's really ",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you think that the game's community is too toxic, or is it just a vocal minor",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've always thought that the game could benefit from more 'event' style game mod",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What do you think is the most important factor in determining a champion's 'powe",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've been playing League for a while now, and I've noticed that the game's espor",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you think that the game's 'free champion rotation' is a good way to introduce",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've always wondered, what's the story behind the creation of the Voidbringers? ",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What do you think makes a good 'teamfight' champion? Is it someone with a lot of",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've been playing a lot of ARAM lately, and I've noticed that it's really hard t",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you think that the game's 'pre-season' is a good time to try out new strategi",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've always thought that the game could benefit from more 'persistent' game mode",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What do you think is the most interesting part of the game's lore? Is it the his",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've been playing League for a while now, and I've noticed that the game's commu",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you think that the game's 'champion select' process is fair, or are there too",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've always wondered, what's the story behind the creation of the Kinkou? Do you",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What do you think makes a good 'late-game' champion? Is it someone with a lot of",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've been playing a lot of normals lately, and I've noticed that it's really har",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you think that the game's 'dynamic queue' is a good way to play the game, or ",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've been playing a lot of Jax lately and I'm curious, what do you think makes h",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you agree that the latest patch notes have shifted the balance of power in th",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've always wondered, what's the story behind Anivia's origins in the League of ",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What do you think is the most underrated champion in the game right now?",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I'm fascinated by the history of League of Legends, what are some notable moment",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Am I the only one who thinks that the current state of the game is too focused o",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you think that Riot's approach to updating champion kits is effective?",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What are your thoughts on the current state of the support role in the game?",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've noticed that a lot of professional players have been picking up Azir lately",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you agree that the game's ranking system is fair and accurate?",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What do you think is the most influential factor in determining a team's success",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've been playing League of Legends for years, but I still don't understand the ",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What are your thoughts on the recent changes to the game's item shop?",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you think that the game's community is more toxic now than it was a few years",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I'm curious, what do you think is the most difficult champion to master in the g",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What do you think about the game's approach to storytelling and lore?",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Am I the only one who thinks that the game's sound design is underrated?",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you agree that the game's graphics have improved significantly over the years",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What do you think is the most iconic champion design in the game?",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've been wondering, what's the process behind creating a new champion for the g",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you think that the game's esports scene is healthy and sustainable?",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What are your thoughts on the game's approach to balancing champion kits?",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I'm curious, what do you think is the most memorable moment in League of Legends",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you agree that the game's ranking system rewards individual skill over teamwo",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What do you think about the game's approach to updating old champion kits?",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Am I the only one who thinks that the game's draft mode is more exciting than bl",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you think that the game's community features, such as clubs and chat rooms, a",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What are your thoughts on the game's approach to handling toxicity and harassmen",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I've been playing a lot of ARAM lately, what do you think makes it a fun game mo",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you agree that the game's current meta is too focused on assassin champions?",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What do you think is the most important aspect of a champion's design?",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "I'm curious, what do you think is the biggest misconception about the game's bal",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "Do you think that the game's approach to storytelling through events and mission",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    },
+    {
+      "text": "What are your thoughts on the game's approach to creating new and unique champio",
+      "true_label": "discussion",
+      "pred_label": "discussion"
+    }
+  ]
+}
